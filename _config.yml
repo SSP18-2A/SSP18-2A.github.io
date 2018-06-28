@@ -114,10 +114,10 @@ remote_theme: daviddarnes/alembic
 # 8. Site navigation
 navigation_header:
   Home: /
-  Meeting Minutes: /blog/
+  Meeting Minutes: /blog
   #Categories: /categories/
-  Contact: /contact/
-  About Us: /aboutUs/
+  Contact: /contact
+  About Us: /aboutUs
 
 
 
