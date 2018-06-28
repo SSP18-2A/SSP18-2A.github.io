@@ -96,7 +96,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "SpongeCat" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/headband (2).svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/headband.svg" # Site logo, also used in jekyll-seo-tag
 description: "A Keccak Algorithm Visualizer for information technology students to better understand how keccak derived." # Site description and default description, also used in jekyll-seo-tag
 url: "https://zhiyuan-xin.github.io/spongeCat/" # Site url, also used in jekyll-seo-tag
 baseurl: "spongeCat"
