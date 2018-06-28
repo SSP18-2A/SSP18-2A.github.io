@@ -10,4 +10,4 @@ excerpt: "A demo of Markdown and HTML includes"
 Mr Premarajan Ponnambath<br>
 Email : 
 
-{% include site-form.html %}
+
