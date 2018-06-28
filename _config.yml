@@ -99,7 +99,7 @@ title: "SpongeCat" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/headband.svg" # Site logo, also used in jekyll-seo-tag
 description: "A Keccak Algorithm Visualizer for information technology students to better understand how keccak derived." # Site description and default description, also used in jekyll-seo-tag
 url: "" # Site url, also used in jekyll-seo-tag
-baseurl: "spongeCat"
+baseurl: ""
 #repo: "https://github.com/daviddarnes/alembic"
 #email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
