@@ -28,4 +28,4 @@ Link for User Manual
 https://youtu.be/2MsN8gpT6jY
 
 
-{% include spongeCat/video.html id="2MsN8gpT6jY" title="Siteleaf tutorial video" %}
+{% include video.html id="2MsN8gpT6jY" title="Siteleaf tutorial video" %}
