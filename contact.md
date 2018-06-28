@@ -23,3 +23,4 @@ YIP JIAN YAN
 jyyip001@mymail.sim.edu.sg  
   
 ### Contact form
+{% include spongeCat/site-form.html %}
