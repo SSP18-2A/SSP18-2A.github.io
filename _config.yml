@@ -1,0 +1,156 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+#title: SpongeCat - Keccak Algorithm Visualizer
+#email: zxin001@mymail.sim.edu.sg
+#description: >- # this means to ignore newlines until "baseurl:"
+#  A Keccak Algorithm Visualizer for information technology students to better understand how keccak derived. 
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+#theme: minima
+#User alebic theme --ZY
+theme: alembic-jekyll-theme
+
+# 1. Files excluded from Jekyll builds
+#exclude:
+#- README.md
+#- CODE_OF_CONDUCT.md
+#- CONTRIBUTING.md
+#- screenshot.png
+#- LICENSE
+#- CNAME
+#- Gemfile
+#- Gemfile.lock
+#- alembic-jekyll-theme.gemspec
+
+
+
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+social: # jekyll-seo-tag > social overrides
+  name: David Darnes # jekyll-seo-tag > real name
+#  links:  # jekyll-seo-tag > social aliases (sameAs)
+#    - https://twitter.com/DavidDarnes
+#    - https://www.facebook.com/daviddarnes
+#    - https://www.linkedin.com/in/daviddarnes
+#    - https://plus.google.com/+DavidDarnes
+#    - https://github.com/daviddarnes
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Aisa/Singapore # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description:  # The post list page content
+    feature_text: |
+      Project Meeting Minutes
+    feature_image: "https://picsum.photos/2560/600?image=866"
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
+
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "SpongeCat" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/headband (2).svg" # Site logo, also used in jekyll-seo-tag
+description: "A Keccak Algorithm Visualizer for information technology students to better understand how keccak derived." # Site description and default description, also used in jekyll-seo-tag
+url: "spongeCat" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+#repo: "https://github.com/daviddarnes/alembic"
+#email: "me@daviddarnes.com"
+# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+#avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+# google_analytics: ''
+# service_worker: false # Will turn off the service worker if set to false
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+
+# 8. Site navigation
+navigation_header:
+  Home: /
+  Meeting Minutes: /blog/
+  #Categories: /categories/
+  Contact: /contact/
+  About Us: /aboutUs/
+
+
+
+
+navigation_footer:
+  Created by Group SSP18/2A : https://www.google.com
+
+#social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+#  Twitter: https://twitter.com/DavidDarnes
+#  LinkedIn: https://www.linkedin.com/in/daviddarnes
+#  Google+: https://plus.google.com/+DavidDarnes
+#  GitHub: https://github.com/daviddarnes
+#  link: https://darn.es
+#  RSS: /feed.xml
+
+sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
+  #Twitter: "#0d94e7"
+  #facebook: "#3B5998"
+  #Google+: "#DC4E41"
+  # Pinterest: "#BD081C"
+  # LinkedIn: "#0077B5"
+  # tumblr: "#36465D"
+  # Reddit: "#FF4500"
+  # Hacker News: "#ff6600"
+  # Designer News: "#2D72D9"
+  # Email: ""
+
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
