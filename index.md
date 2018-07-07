@@ -20,15 +20,14 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ## MANUALS
 
-Link for Technical Manual
-
-Link for User Manual
-{% include figure.html image="/assets/techManual.png" caption="Technical Manual[A link](https://david.darn.es "test")" position="right" width="300" height="800" %}
-
-{% include figure.html image="/assets/userManual.png" position="left" caption="User Manual" width="300" height="800" %}
-
+{% include figure.html image="/assets/techManual.png" caption="Technical Manual" position="left" width="150" height="400" link="https://drive.google.com/open?id=17DRznhmVEdQ31JSUmLF2Fdw7ufGCx9oW" %}
+{% include figure.html image="/assets/userManual.png"  caption="User Manual" position="right" width="150" height="400" link="https://drive.google.com/open?id=1gjThsJWBOBoRF9MauXv-wCsNNhxFURUs" %}
+   
+   
+   
 
 
-Product video:
+
+## Product video:
 
 {% include video.html id="2MsN8gpT6jY" title="Siteleaf tutorial video" %}
