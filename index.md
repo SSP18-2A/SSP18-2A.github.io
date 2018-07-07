@@ -28,7 +28,7 @@ Link for User Manual
 {% include figure.html image="/assets/userManual.png" position="left" caption="User Manual" width="300" height="800" %}
 
 
-https://youtu.be/2MsN8gpT6jY
 
+Product video:
 
 {% include video.html id="2MsN8gpT6jY" title="Siteleaf tutorial video" %}
