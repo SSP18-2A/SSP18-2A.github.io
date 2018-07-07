@@ -23,11 +23,11 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 {% include figure.html image="/assets/techManual.png" caption="Technical Manual" position="left" width="150" height="400" link="https://drive.google.com/open?id=17DRznhmVEdQ31JSUmLF2Fdw7ufGCx9oW" %}
 {% include figure.html image="/assets/userManual.png"  caption="User Manual" position="right" width="150" height="400" link="https://drive.google.com/open?id=1gjThsJWBOBoRF9MauXv-wCsNNhxFURUs" %}
    
+<br>   
+<br>   
+<br>    
+<br>    
    
-   
-
-
-
 ## Product video:
 
 {% include video.html id="2MsN8gpT6jY" title="Siteleaf tutorial video" %}
