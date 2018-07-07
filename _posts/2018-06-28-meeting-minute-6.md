@@ -5,7 +5,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 Meeting Date: 28 June 2018    
 Meeting started: 1830 hrs   
-Meeting ended: ? hrs   
+Meeting ended: 2000 hrs   
    
 Member Present:   
 Eugene Yong Zhi Jie   
@@ -22,7 +22,11 @@ Agenda:
 - Present Technical Design Manual   
 
 During The Meeting:  
-- TBC  
+- Present Prototype  
+- Present Requirement spec  
+- Present Technical Design Manual   
 
 Things to do:  
-- BTC  
+- Work on PreliminaryTechnical Manual
+- Work on PreliminaryUser Manual
+- Work on the prototype
