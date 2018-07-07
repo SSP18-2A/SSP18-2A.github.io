@@ -23,6 +23,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 Link for Technical Manual
 
 Link for User Manual
+{% include figure.html image="/assets/techManual.png" caption="Technical Manual[A link](https://david.darn.es "test")" position="right" width="300" height="800" %}
+
+{% include figure.html image="/assets/userManual.png" position="left" caption="User Manual" width="300" height="800" %}
 
 
 https://youtu.be/2MsN8gpT6jY
