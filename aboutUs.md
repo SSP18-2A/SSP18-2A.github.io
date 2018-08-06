@@ -1,6 +1,7 @@
 ---
 title: About Us
-feature_text: |
+feature_text: 
+  ## SpongeCat
   Introduce Team Group SSP18/2A
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
