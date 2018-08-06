@@ -114,6 +114,7 @@ remote_theme: daviddarnes/alembic
 # 8. Site navigation
 navigation_header:
   Home: /
+  Product: /Product
   Meeting Minutes: /blog
   #Categories: /categories/
   Contact: /contact
