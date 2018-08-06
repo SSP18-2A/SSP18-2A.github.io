@@ -14,10 +14,10 @@ Project Supervisor: Mr Premarajan Ponnambath<br>
 Our Team members are as follows:<br>
 
 EUGENE YONG ZHI JIE(UOW id: 4443068)<br>
-Roles:<br>
+Roles: Head Programmer<br>
 LEE JUN JIE, MELCOLM(UOW id: 5710674)<br>
-Roles:<br>
+Roles: Head Application Designer, tester<br>
 XIN ZHIYUAN(UOW id: 5841768)<br>
-Roles:<br>
+Roles: Head Researcher,Secretary<br>
 YIP JIAN YAN(UOW id: 5654610)<br>
-Roles:<br>
+Roles: Team Leader,Analyst<br>
