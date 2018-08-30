@@ -11,19 +11,19 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ## FEATURES
 Easy access</br>
-<small>SpongeCat is accessible on the website freely</small>
+<small>SpongeCat is accessible on the website freely</small></br>
 Generation of SHA-3 hash</br>
-<small>SpongeCat shall generate a unique hash using the KECCAK hashing algorithm according to the user’s input</small>
+<small>SpongeCat shall generate a unique hash using the KECCAK hashing algorithm according to the user’s input</small></br>
 Educational</br>
-<small>SpongeCat provides information and knowledge about Keccak</small>
+<small>SpongeCat provides information and knowledge about Keccak</small></br>
 Code explanation and breakdown</br>
-<small>SpongeCat shall breakdown and present hashing process with code description and diagram.</small>
+<small>SpongeCat shall breakdown and present hashing process with code description and diagram.</small></br>
 User Authentication</br>
-<small>The application shall authenticate user and only grant access to user who have the appropriate credentials</small>
+<small>The application shall authenticate user and only grant access to user who have the appropriate credentials</small></br>
 Multiple Choice Questions</br>
-<small>SpongeCat will provide a list of multiple choice questions to test on student’s knowledge on the keccak algorithm.</small>
+<small>SpongeCat will provide a list of multiple choice questions to test on student’s knowledge on the keccak algorithm.</small></br>
 Tracking of user’s score</br>
-<small>SpongeCat shall record the user’s quiz score in a database and allow the user to retrieve past scores.</small>
+<small>SpongeCat shall record the user’s quiz score in a database and allow the user to retrieve past scores.</small></br>
 
 
 ## MANUALS
