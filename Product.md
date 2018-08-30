@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 
-{% include buttonCenter.html text="Access SpongeCat" position="right" link="https://github.com/SSP18-2A/SSP18-2A.github.io" %}
+{% include buttonCenter.html text="Access SpongeCat" position="right" link="https://github.com/inimical90/SpongeCat" %}
 
 ## FEATURES
 ###### Easy access
