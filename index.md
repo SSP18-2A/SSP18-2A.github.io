@@ -8,4 +8,4 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-{% include video.html id="8oUuJzr97ss" title="spongeCat Demo video" %}
+{% include video.html id="LOSjxSHqUwY" title="spongeCat Demo video" %}
