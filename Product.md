@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 
-{% include buttonCenter.html text="Access SpongeCat" position="right" link="https://github.com/inimical90/SpongeCat" %}
+{% include buttonCenter.html text="Access SpongeCat" position="right" link="https://spongecat.azurewebsites.net/" %}
 
 ## FEATURES
 ###### Easy access
@@ -29,5 +29,5 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ## MANUALS
 
-{% include figure.html image="/assets/techManual.png" caption="Technical Manual" position="left" width="150" height="400" link="https://drive.google.com/open?id=17DRznhmVEdQ31JSUmLF2Fdw7ufGCx9oW" %}
-{% include figure.html image="/assets/userManual.png"  caption="User Manual" position="right" width="150" height="400" link="https://drive.google.com/open?id=1gjThsJWBOBoRF9MauXv-wCsNNhxFURUs" %}
+{% include figure.html image="/assets/techManual.png" caption="Technical Manual" position="left" width="150" height="400" link="https://drive.google.com/open?id=1EIygnnxeG19VSZKZ0TaE29beCnySIPWH" %}
+{% include figure.html image="/assets/userManual.png"  caption="User Manual" position="right" width="150" height="400" link="https://drive.google.com/open?id=1ONgieVxEqu6jC9JWTq6VJpVrFCi5qtlM" %}
